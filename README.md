@@ -9,3 +9,7 @@ A simple to-do list web app built with HTML, CSS, and JavaScript.
 
 ## How to run
 Open index.html in your browser.
+
+
+## Status
+This project is under active development.
